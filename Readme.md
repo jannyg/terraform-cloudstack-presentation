@@ -133,7 +133,11 @@ slidenumbers: true
 
 ---
 
-# Code
+# Summary
 
-@landro
+- Terraform is great for defining infrastructure as code
+- Perform incremental changes to your infrastructure
+- Can combine several cloud providers in your infrastructure
+
 [github.com/landro](http://github.com/landro)
+@landro
